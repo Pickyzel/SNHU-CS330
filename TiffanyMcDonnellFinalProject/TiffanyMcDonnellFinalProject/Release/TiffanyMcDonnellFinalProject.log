@@ -1,0 +1,15 @@
+﻿  FinalProject.cpp
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(283,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(396,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(397,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(401,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(402,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(404,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(405,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\TiffanyMcDonnellFinalProject\FinalProject.cpp(418,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 487 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TiffanyMcDonnellFinalProject.vcxproj -> C:\Users\Tifa8\Desktop\School\CS-330\Project\TiffanyMcDonnellFinalProject\Release\TiffanyMcDonnellFinalProject.exe
